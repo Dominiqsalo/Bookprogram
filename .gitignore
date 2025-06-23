@@ -1,0 +1,14 @@
+# Angular
+/book-quotes-app/node_modules
+/book-quotes-app/dist
+/book-quotes-app/.angular
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.vs
+*.db
+*.sqlite
+*.env
