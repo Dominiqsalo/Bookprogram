@@ -3,7 +3,7 @@ services:
     name: bookprogram
     env: dotnet
     buildCommand: dotnet build
-    startCommand: dotnet run --project BookQuotesApi/BookQuotesApi.csproj
+    startCommand: dotnet run --project BookQuotesApi.csproj
     envVars:
       - key: ASPNETCORE_ENVIRONMENT
         value: Development
